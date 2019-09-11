@@ -6,7 +6,7 @@ Stock prediction app using scikit learn and pandas
 - Run all the cells to see the predictions with four different algorithms.
 - You can change the value "AAPL" for another stock like "TSLA" to see different results.
 
-## Screenshots
+## Screenshots for AAPL stock
 
 <div>
   Apple Stock data from the last 10 years fetched from Yahoo finance
