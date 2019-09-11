@@ -9,7 +9,7 @@ Stock prediction app using scikit learn and pandas
 ## Screenshots
 
 <div>
-  Apple Stock data fetched from Yahoo finance
+  Apple Stock data from the last 10 years fetched from Yahoo finance
   <img src="public/stock_data.png" />
   <br>
   Apple Stocks Price with The Moving Average (mavg)
