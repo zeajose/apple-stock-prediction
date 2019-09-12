@@ -25,7 +25,7 @@ Stock prediction app using scikit learn and pandas
   <br>
   <img src="public/risk_returns.png" />
   <br>
-  Predictions for the first algorithm Displayed in Plot
+  Predictions displayed in blue for the next quarter using the first algorithm
   <br>
   <img src="public/prediction_model_1.png" />
 <div/>
