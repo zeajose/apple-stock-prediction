@@ -10,17 +10,22 @@ Stock prediction app using scikit learn and pandas
 
 <div>
   Apple Stock data from the last 10 years fetched from Yahoo finance
+  <br>
   <img src="public/stock_data.png" />
   <br>
   Apple Stocks Price with The Moving Average (mavg)
+  <br>
   <img src="public/apple_stocks_mavg.png" />
   <br>
   Heatmap of Correlations among competing stocks
+  <br>
   <img src="public/heat_map.png" />
   <br>
   Quick Scatter Plot among Stocks Risk and Returns
+  <br>
   <img src="public/risk_returns.png" />
   <br>
   Predictions for the first algorithm Displayed in Plot
+  <br>
   <img src="public/prediction_model_1.png" />
 <div/>
